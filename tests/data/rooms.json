@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPT00vMmYyMTQzMTItNTUyMi0zMTIxLXJld3EtMmEzNzFnOGs1OWFi",
+      "title": "First",
+      "type": "direct",
+      "isLocked": false,
+      "lastActivity": "2017-10-10T13:28:08.137Z",
+      "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mOGVkODc2Yi00NDVmLTVkMGQtZXE1NS1jOGIxOWY5OTkxNzM",
+      "created": "2017-09-30T13:18:06.760Z"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPT00vMzFhNGM2MjAtMWVjMi0xMmE3LWFjMjEtN3E4MWJlNjUyNTFl",
+      "title": "Second",
+      "type": "direct",
+      "isLocked": false,
+      "lastActivity": "2017-10-10T13:30:10.234Z",
+      "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9kNmVkODc0Yi0xMjNjLTVkMWQtZWE4OC1jNWMxMmY5OTkxMjM",
+      "created": "2017-09-30T13:21:11.210Z"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPT00vNDJhNWM2NTEtM2VkMi0xM2I4LXdxMzItOHI3NnJlNjQ1NjJ0",
+      "title": "Room1",
+      "type": "group",
+      "isLocked": false,
+      "lastActivity": "2017-10-10T13:31:12.321Z",
+      "teamId": "Y2lzY29zcGFyazovL3VzL1RFQU0vMzZlZjd0ZTAtMDEyMi0xMnI3LXJlYXEtYnIyMjU2NzZmYTZm",
+      "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "created": "2017-09-30T13:22:12.111Z"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPT00vYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFk",
+      "title": "Room2",
+      "type": "group",
+      "isLocked": true,
+      "lastActivity": "2017-10-10T13:42:21.421Z",
+      "teamId": "Y2lzY29zcGFyazovL3VzL1RFQU0vNWM3NzFzZDMtNTExMi0xMnI3LWVlc2EtYnIyMjU2NzZmYTZm",
+      "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "created": "2017-09-30T13:33:43.456Z"
+    }
+  ]
+}

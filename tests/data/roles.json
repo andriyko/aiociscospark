@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvYXRsYXMtcG9ydGFsLmFwcGxpY2F0aW9u",
+      "name": "Application Administrator"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvc3Bhcmsuc3luY2ttcw",
+      "name": "KMS Administrator"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvYXRsYXMtcG9ydGFsLmJpbGxpbmc",
+      "name": "Billing Administrator"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvaWRfcmVhZG9ubHlfYWRtaW4",
+      "name": "Read-only administrator"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvYXRsYXMtcG9ydGFsLnN1cHBvcnQ",
+      "name": "Support Administrator"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvYXRsYXMtcG9ydGFsLmFsbA",
+      "name": "Portal Administrator"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvYXRsYXMtcG9ydGFsLnJlcG9ydHM",
+      "name": "Reports Administrator"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvYXRsYXMtcG9ydGFsLnBhcnRuZXIuc2FsZXNhZG1pbg",
+      "name": "Sales Administrator"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvYXRsYXMtcG9ydGFsLnBhcnRuZXIuaGVscGRlc2s",
+      "name": "Help Desk Administrator"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1JPTEUvaWRfZnVsbF9hZG1pbg",
+      "name": "Full administrator"
+    }
+  ]
+}

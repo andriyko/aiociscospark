@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvNWM3NzFjZTMtZTUwMC00MDAzLTd0OGItNWU3NWM5YmFzczkwOkNNUl9lNjkxOXFkMy1lZDk5LTRjY2MtOGNiNC00dDZiY2IwYjQ3NGJfZXhhbXBsZS53ZWJleC5jb20",
+      "name": "Meeting - Webex Collaboration Meeting Rooms",
+      "totalUnits": 30,
+      "consumedUnits": 1
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvNWM3NzFjZTMtZTUwMC00MDAzLTd0OGItNWU3NWM5YmFzczkwOlNEXzQxYWJjNDVkLWRhYmYtNDBjYS1hNTRkLTU5ZDMzMzNkNGJjNg",
+      "name": "Room Systems",
+      "totalUnits": 4,
+      "consumedUnits": 0
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvNWM3NzFjZTMtZTUwMC00MDAzLTd0OGItNWU3NWM5YmFzczkwOkNGX2Q2NTMyODVkLTg1NzgtNDExZi1hOWMwLTJmOTBiYzBhNjc0Nw",
+      "name": "Meeting 25 party",
+      "totalUnits": 30,
+      "consumedUnits": 0
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvNWM3NzFjZTMtZTUwMC00MDAzLTd0OGItNWU3NWM5YmFzczkwOkVFXzE3MmM4M2ExLTFlZDAtNDNiYS1hYmM3LTRlcmY4NzZhYzM4YV9leGFtcGxlLndlYmV4LmNvbQ",
+      "name": "Messaging",
+      "totalUnits": 30,
+      "consumedUnits": 1
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvNWM3NzFjZTMtZTUwMC00MDAzLTd0OGItNWU3NWM5YmFzczkwOkVFXzE3MWI3M2ExLTFkZTAtNDRiYi1hY2M3LTRjYmE2ODJhYzM4YV9leGFtcGxlLndlYmV4LmNvbQ",
+      "name": "Meeting - Webex Enterprise Edition",
+      "totalUnits": 30,
+      "consumedUnits": 1
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvNWM3NzFjZTMtZTUwMC00MDAzLTd0OGItNWU3NWM5YmFzczkwOkNPX2FhYmMzZXQ1LWIxZDgtNDM1OS05MzQ5LTc4NjU0NmJjOWYzNA",
+      "name": "Calling",
+      "totalUnits": 30,
+      "consumedUnits": 0
+    }
+  ]
+}

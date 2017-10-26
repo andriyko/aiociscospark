@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvN2VhNXY3ODEtMTJmZS0xMWU3LTg0ZGItZDk5Mzk1MzEzMTdi",
+      "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFk",
+      "roomType": "group",
+      "text": "this is message in group room Room2",
+      "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "personEmail": "admin@example.com",
+      "created": "2017-09-30T15:45:43.456Z"
+    }
+  ]
+}

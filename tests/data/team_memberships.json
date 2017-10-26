@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1RFQU1fTUVNQkVSU0hJUC8zNmVmN3RlMC0wMTIyLTEycjctcmVhcS1icjIyNTY3NmZhNmY6ZjdlcjY3NWItMzM5ZC01czBkLWVjNDQtYzdiMThmNjE1MTc3",
+      "teamId": "Y2lzY29zcGFyazovL3VzL1RFQU0vMzZlZjd0ZTAtMDEyMi0xMnI3LXJlYXEtYnIyMjU2NzZmYTZm",
+      "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "personEmail": "admin@example.com",
+      "personDisplayName": "Full Admin",
+      "isModerator": true,
+      "created": "2017-09-30T14:03:51.312Z"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1RFQU1fTUVNQkVSU0hJUC8zNmVmN3RlMC0wMTIyLTEycjctcmVhcS1icjIyNTY3NmZhNmY6ZjhlZDg3NmItNDQ1Zi01ZDBkLWVxNTUtYzhiMTlmOTk5MTcz",
+      "teamId": "Y2lzY29zcGFyazovL3VzL1RFQU0vMzZlZjd0ZTAtMDEyMi0xMnI3LXJlYXEtYnIyMjU2NzZmYTZm",
+      "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mOGVkODc2Yi00NDVmLTVkMGQtZXE1NS1jOGIxOWY5OTkxNzM",
+      "personEmail": "user1@example.com",
+      "personDisplayName": "First User",
+      "isModerator": false,
+      "created": "2017-09-30T14:013:52.311Z"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1RFQU1fTUVNQkVSU0hJUC8zNmVmN3RlMC0wMTIyLTEycjctcmVhcS1icjIyNTY3NmZhNmY6ZDZlZDg3NGItMTIzYy01ZDFkLWVhODgtYzVjMTJmOTk5MTIz",
+      "teamId": "Y2lzY29zcGFyazovL3VzL1RFQU0vMzZlZjd0ZTAtMDEyMi0xMnI3LXJlYXEtYnIyMjU2NzZmYTZm",
+      "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9kNmVkODc0Yi0xMjNjLTVkMWQtZWE4OC1jNWMxMmY5OTkxMjM",
+      "personEmail": "user2@example.com",
+      "personDisplayName": "Second User",
+      "isModerator": false,
+      "created": "2017-03-08T19:05:32.746Z"
+    }
+  ]
+}

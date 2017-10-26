@@ -1,0 +1,5 @@
+include *.txt
+recursive-include aiociscospark/*
+recursive-exclude tests *
+recursive-exclude scripts *
+recursive-exclude examples *

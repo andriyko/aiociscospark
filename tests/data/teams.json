@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1RFQU0vMzZlZjd0ZTAtMDEyMi0xMnI3LXJlYXEtYnIyMjU2NzZmYTZm",
+      "name": "Team1",
+      "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "created": "2017-09-30T19:05:32.429Z"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1RFQU0vNWM3NzFzZDMtNTExMi0xMnI3LWVlc2EtYnIyMjU2NzZmYTZm",
+      "name": "Team2",
+      "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "created": "2017-09-30T16:05:32.419Z"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1RFQU0vMzVlZDVhejEtNTUyMi0wMTIyLWFzc2EtYnIyMjU2NzZmYTZm",
+      "name": "Team3",
+      "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "created": "2017-09-30T14:10:12.211Z"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1RFQU0vMnQxMjQzMTItMDEyMi0xM2I4LXdhMzEtYnIyMjU2NzZmYTZm",
+      "name": "Team4",
+      "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "created": "2017-09-30T14:12:10.221Z"
+    }
+  ]
+}

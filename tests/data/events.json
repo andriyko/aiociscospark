@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0VWRU5UL2Y2ZGI4YjMwLTI2MDMtMTFlNy1iYjczLTU5YzMxNWI0YmI2Yw",
+      "resource": "memberships",
+      "type": "created",
+      "actorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "appId": null,
+      "created": "2017-09-30T15:33:43.456Z",
+      "data": {
+        "id": "Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFkOmY3ZXI2NzViLTMzOWQtNXMwZC1lYzQ0LWM3YjE4ZjYxNTE3Nw",
+        "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFk",
+        "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+        "personEmail": "admin@example.com",
+        "personDisplayName": "Full Admin",
+        "isModerator": false,
+        "isMonitor": false,
+        "created": "2017-09-30T15:33:43.456Z"
+      }
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0VWRU5ULzdjZDV2NzYwLTExZmUtMTFlNy04NGRiLWQ5OTM5NTExOTQ2Yg",
+      "resource": "memberships",
+      "type": "created",
+      "actorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "appId": null,
+      "created": "2017-09-30T15:33:45.456Z",
+      "data": {
+        "id": "Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFkOmY4ZWQ4NzZiLTQ0NWYtNWQwZC1lcTU1LWM4YjE5Zjk5OTE3Mw",
+        "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFk",
+        "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mOGVkODc2Yi00NDVmLTVkMGQtZXE1NS1jOGIxOWY5OTkxNzM",
+        "personEmail": "user1@example.com",
+        "personDisplayName": "First User",
+        "isModerator": false,
+        "isMonitor": false,
+        "created": "2017-09-30T15:33:45.456Z"
+      }
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0VWRU5UL2Q1NTViY2EwLTI2MDQtMTFlNy04Mjc4LTM5M2FjM2JlZjY2ZA",
+      "resource": "memberships",
+      "type": "created",
+      "actorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "appId": null,
+      "created": "2017-09-30T15:33:47.456Z",
+      "data": {
+        "id": "Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFkOmQ2ZWQ4NzRiLTEyM2MtNWQxZC1lYTg4LWM1YzEyZjk5OTEyMw",
+        "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFk",
+        "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9kNmVkODc0Yi0xMjNjLTVkMWQtZWE4OC1jNWMxMmY5OTkxMjM",
+        "personEmail": "user2@example.com",
+        "personDisplayName": "Second User",
+        "isModerator": false,
+        "isMonitor": false,
+        "created": "2017-09-30T15:33:47.456Z"
+      }
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL0VWRU5ULzdlYTV2NzgxLTEyZmUtMTFlNy04NGRiLWQ5OTM5NTMxMzE3Yg",
+      "resource": "messages",
+      "type": "created",
+      "actorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "appId": null,
+      "created": "2017-09-30T15:45:43.456Z",
+      "data": {
+        "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvN2VhNXY3ODEtMTJmZS0xMWU3LTg0ZGItZDk5Mzk1MzEzMTdi",
+        "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFk",
+        "roomType": "group",
+        "text": "this is message in group room Room2",
+        "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+        "personEmail": "admin@example.com",
+        "created": "2017-09-30T15:45:43.456Z"
+      }
+    }
+  ]
+}

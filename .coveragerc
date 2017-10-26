@@ -1,0 +1,17 @@
+[run]
+branch = True
+omit =
+    tests/*
+    examples/*
+    scripts/*
+    setup.py
+
+[report]
+omit =
+    aiociscospark/__version__.py
+    tests/*
+    examples/*
+    scripts/*
+    setup.py
+exclude_lines =
+    pragma: no cover

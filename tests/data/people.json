@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+      "emails": [
+        "admin@example.com"
+      ],
+      "displayName": "Full Admin",
+      "nickName": "fulladmin",
+      "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81Yzc3MWNlMy1lNTAwLTQwMDMtN3Q4Yi01ZTc1YzliYXNzOTA",
+      "roles": [
+        "Y2lzY29zcGFyazovL3VzL1JPTEUvaWRfZnVsbF9hZG1pbg"
+      ],
+      "licenses": [
+        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvNWM3NzFjZTMtZTUwMC00MDAzLTd0OGItNWU3NWM5YmFzczkwOkVFXzE3MmM4M2ExLTFlZDAtNDNiYS1hYmM3LTRlcmY4NzZhYzM4YV9leGFtcGxlLndlYmV4LmNvbQ",
+        "Y2lzY29zcGFyazovL3VzL0xJQ0VOU0UvNWM3NzFjZTMtZTUwMC00MDAzLTd0OGItNWU3NWM5YmFzczkwOkNNUl9lNjkxOXFkMy1lZDk5LTRjY2MtOGNiNC00dDZiY2IwYjQ3NGJfZXhhbXBsZS53ZWJleC5jb20"
+      ],
+      "created": "2017-09-30T19:37:58.808Z",
+      "lastActivity": "2017-10-10T16:22:41.502Z",
+      "status": "active",
+      "invitePending": false,
+      "loginEnabled": true,
+      "type": "person"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mOGVkODc2Yi00NDVmLTVkMGQtZXE1NS1jOGIxOWY5OTkxNzM",
+      "emails": [
+        "user1@example.com"
+      ],
+      "displayName": "First User",
+      "nickName": "user1",
+      "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81Yzc3MWNlMy1lNTAwLTQwMDMtN3Q4Yi01ZTc1YzliYXNzOTA",
+      "roles": [],
+      "licenses": [],
+      "created": "2017-09-30T21:32:12.786Z",
+      "lastActivity": "2017-09-30T21:34:01.711Z",
+      "status": "inactive",
+      "type": "person"
+    },
+    {
+      "id": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9kNmVkODc0Yi0xMjNjLTVkMWQtZWE4OC1jNWMxMmY5OTkxMjM",
+      "emails": [
+        "user2@example.com"
+      ],
+      "displayName": "Second User",
+      "nickName": "user2",
+      "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81Yzc3MWNlMy1lNTAwLTQwMDMtN3Q4Yi01ZTc1YzliYXNzOTA",
+      "roles": [],
+      "licenses": [],
+      "created": "2017-09-30T21:33:05.211Z",
+      "lastActivity": "2017-09-30T21:35:06.132Z",
+      "status": "inactive",
+      "type": "person"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFkOmY3ZXI2NzViLTMzOWQtNXMwZC1lYzQ0LWM3YjE4ZjYxNTE3Nw",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFk",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mN2VyNjc1Yi0zMzlkLTVzMGQtZWM0NC1jN2IxOGY2MTUxNzc",
+            "personEmail": "admin@example.com",
+            "personDisplayName": "Full Admin",
+            "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81Yzc3MWNlMy1lNTAwLTQwMDMtN3Q4Yi01ZTc1YzliYXNzOTA",
+            "isModerator": true,
+            "isMonitor": false,
+            "created": "2017-09-30T15:33:43.456Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFkOmY4ZWQ4NzZiLTQ0NWYtNWQwZC1lcTU1LWM4YjE5Zjk5OTE3Mw",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFk",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mOGVkODc2Yi00NDVmLTVkMGQtZXE1NS1jOGIxOWY5OTkxNzM",
+            "personEmail": "user1@example.com",
+            "personDisplayName": "First User",
+            "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81Yzc3MWNlMy1lNTAwLTQwMDMtN3Q4Yi01ZTc1YzliYXNzOTA",
+            "isModerator": false,
+            "isMonitor": false,
+            "created": "2017-09-30T15:33:45.456Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFkOmQ2ZWQ4NzRiLTEyM2MtNWQxZC1lYTg4LWM1YzEyZjk5OTEyMw",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vYzYyMDQyYTUtYWMyMS0zZWQyLWFlMjItOGk4MXJlNjU1NTFk",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9kNmVkODc0Yi0xMjNjLTVkMWQtZWE4OC1jNWMxMmY5OTkxMjM",
+            "personEmail": "user2@example.com",
+            "personDisplayName": "Second User",
+            "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81Yzc3MWNlMy1lNTAwLTQwMDMtN3Q4Yi01ZTc1YzliYXNzOTA",
+            "isModerator": false,
+            "isMonitor": false,
+            "created": "2017-09-30T15:33:47.456Z"
+        }
+    ]
+}
