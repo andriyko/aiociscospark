@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/andriyko/aiociscospark.svg?branch=master)](https://travis-ci.org/andriyko/aiociscospark)
+[![Build Status](https://travis-ci.org/andriyko/aiociscospark.svg?branch=master)](https://travis-ci.org/andriyko/aiociscospark) [![Coverage Status](https://coveralls.io/repos/github/andriyko/aiociscospark/badge.svg?branch=master)](https://coveralls.io/github/andriyko/aiociscospark?branch=master)
 
 # Python Cisco Spark API client
 
