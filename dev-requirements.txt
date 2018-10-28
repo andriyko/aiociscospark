@@ -1,8 +1,8 @@
 aiohttp==2.3.9
 aiodns==1.1.1
 aioresponses==0.3.0
+flake8==3.6.0
 cchardet==2.1.4
-flake8==3.5.0
 mock==2.0.0
 pytest==3.9.2
 pytest-aiohttp==0.1.3
