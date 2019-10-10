@@ -1,4 +1,4 @@
-aiohttp==3.4.4
+aiohttp==3.6.2
 aiodns==1.1.1
 aioresponses==0.3.0
 flake8==3.6.0
